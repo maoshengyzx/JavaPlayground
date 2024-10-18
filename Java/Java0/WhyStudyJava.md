@@ -17,7 +17,7 @@
 
     JavaSE知识图解
 
-    ![JavaSE课程内容介绍](img\JavaSE课程内容介绍.png)
+    https://github.com/maoshengyzx/JavaPlayground/raw/main/JavaImage/image0/1615793545482.png
 
     JavaSE知识模块介绍
 
