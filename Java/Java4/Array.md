@@ -202,7 +202,7 @@ public class Demo01Array {
   查数据,要指定索引
 ```
 ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img4/1693100078309.png)
-<img src="img\1693100078309.png" alt="1693100078309" style="zoom:80%;" />
+
 
 ## 3.存储元素
 
@@ -327,12 +327,12 @@ public class Demo05Array {
 }
 
 ```
-
-<img src="img\1693104779382.png" alt="1693104779382" style="zoom:80%;" />
-
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img4/1693104779382.png)
 
 
-<img src="img\1693105444875.png" alt="1693105444875" style="zoom:80%;" />
+
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img4/1693105444875.png)
+
 
 
 
@@ -531,8 +531,8 @@ public class Demo10Array {
   4.直接输出max    
    
 ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img4/1693117878368.png)
 
-<img src="img\1693117878368.png" alt="1693117878368" style="zoom:80%;" />
 
 ```java
 public class Demo01GetMax {
@@ -781,8 +781,8 @@ public class Demo04Array {
     }
 }
 ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img4/1699000658991.png)
 
-<img src="img\1699000658991.png" alt="1699000658991" style="zoom:80%;" />
 
 ## 9.练习_数组合并
 
@@ -833,8 +833,8 @@ public class Demo05Array {
 }
 
 ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img4/1699000686275.png)
 
-<img src="img\1699000686275.png" alt="1699000686275" style="zoom:80%;" />
 
 # 第五章.内存图
 
@@ -863,20 +863,19 @@ public class Demo05Array {
         
   寄存器(了解) -> 跟CPU有关
 ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img4/1693125937484.png)
 
-<img src="img\1693125937484.png" alt="1693125937484" style="zoom:80%;" />
 
 ## 1.一个数组内存图
-
-<img src="img\1699000833517.png" alt="1699000833517" style="zoom:80%;" />
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img4/1699000833517.png)
 
 ## 2.两个数组内存图
 
 ```java
 我们创建了两个数组,在堆内存中开辟了两个不同的空间,此时修改一个数组中的元素不会影响到另外一个数组中的数据
 ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img4/1699000841735.png)
 
-<img src="img\1699000841735.png" alt="1699000841735" style="zoom:80%;" />
 
 ## 3.两个数组指向同一片内存空间
 
@@ -884,8 +883,8 @@ public class Demo05Array {
 arr2不是new出来的,是arr1直接赋值的,arr1在内存中保存的是地址值,给了arr2,那么arr2的地址值和arr1就是一样的
 所以此时arr1和arr2指向了堆内存中的同一片空间(同一个地址值,同一个数组),此时改变一个数组中的元素会影响到另外一个数组
 ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img4/1699000850332.png)
 
-<img src="img\1699000850332.png" alt="1699000850332" style="zoom:80%;" />
 
 
 
@@ -916,8 +915,8 @@ arr2不是new出来的,是arr1直接赋值的,arr1在内存中保存的是地址
     数据类型 数组名[][] = {{元素1,元素2...},{元素1,元素2...},{元素1,元素2...}}
     数据类型[] 数组名[] = {{元素1,元素2...},{元素1,元素2...},{元素1,元素2...}}
 ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img4/1699000860190.png)
 
-<img src="img\1699000860190.png" alt="1699000860190" style="zoom:80%;" />
 
 ```java
 public class Demo01Array {
@@ -978,8 +977,7 @@ public class Demo03Array {
     }
 }
 ```
-
-<img src="img\1699000869540.png" alt="1699000869540" style="zoom:80%;" />
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img4/1699000869540.png)
 
 ## 4.二维数组中存储元素
 
@@ -1056,6 +1054,6 @@ public class Demo06Array {
     }
 }
 ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img4/1693280082069.png)
 
-![1693280082069](img\1693280082069.png)
 
