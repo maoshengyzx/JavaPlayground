@@ -17,7 +17,7 @@
 
     JavaSE知识图解
 
-    ![1561379629326](D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\JavaSE课程内容介绍.png)
+    ![JavaSE课程内容介绍](img\JavaSE课程内容介绍.png)
 
     JavaSE知识模块介绍
 
@@ -98,21 +98,21 @@
 
 
     一句话概括，**能留在排行榜之上的语言，都是好的语言，在其所在的领域能做到最好。**
-
+    
     ### Java语言发展历史
-
+    
     Java诞生于SUN（Stanford University Network），09年SUN被Oracle（甲骨文）收购。
-
+    
     Java之父是詹姆斯.高斯林(James Gosling)。
-
+    
     ![1615793633189](D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1615793633189.png)
-
+    
     **詹姆斯·高斯林**等人于1990年代初开发Java语言的雏形，最初被命名为**Oak**，目标设置在**家用电器等小型系统的程序语言**，应用在**电视机、电话、闹钟、烤面包机**等家用电器的**控制和通信**。由于这些智能化家电的市场需求没有预期的高，Sun公司放弃了该项计划。随着1990年代互联网的发展，Sun公司看见Oak在互联网上应用的前景，于是改造了Oak，于1995年5月以Java的名称正式发布。Java伴随着互联网的迅猛发展而发展，逐渐成为重要的网络编程语言。
-
+    
     1996年发布JDK1.0版。
-
+    
     目前最新的版本是Java17。我们学习的Java8以及jdk17。
-
+    
     |   发行版本    |  发行时间  |                             备注                             |
     | :-----------: | :--------: | :----------------------------------------------------------: |
     |     Java      | 1995.05.23 |     Sun公司在Sun world会议上正式发布Java和HotJava浏览器      |
@@ -131,7 +131,7 @@
     |   Java 12.0   | 2019.03.19 |                                                              |
     |   Java 13.0   | 2019.9.18  |                                                              |
     |   Java 14.0   | 2020.3.17  |                                                              |
-
+    
     ```java
     Google和Oracle的侵权事件:
     
@@ -143,11 +143,11 @@
     
     正是由于 Google 在 Android 平台上使用 Java 时并未和 Sun 公司达成授权协议，造成了巨大的隐患，尤其是在 Oracle 收购 Sun 公司之后。
     ```
-
+    
     ![1615793545482](D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1615793545482.png)
-
+    
     ### Java技术体系平台
-
+    
     * JavaSE（Java Platform, Standard Edition标准版）：允许您在桌面和服务器上开发和部署Java应用程序。Java提供了丰富的用户界面、性能、多功能性、可移植性和当今应用程序所需的安全性。
     * JavaEE（Java Platform, Enterprise Edition企业版）：是为开发企业环境下的应用程序提供的一套解决方案，主要针对于Web应用程序开发。
     * JavaME（Java Platform, Micro Edition 小型版）：为互联网上的嵌入式和移动设备上运行的应用提供了一个健壮、灵活的环境：微控制器、传感器、网关、移动电话、个人数字助理（PDA）、电视机顶盒、打印机等等。JavaME包括灵活的用户界面、健壮的安全性、内置的网络协议，以及支持动态下载的网络和离线应用程序。基于JavaME的应用程序在许多设备上都是可移植的，但是利用了每个设备的本机功能。
@@ -157,9 +157,9 @@
          在边缘启用快速数据功能；
       *  Java Card：使安全元件（如智能卡和其他防篡改安全芯片）能够承载采用Java技术的应用程序。Java card提供了一个安全的、可互操作的执行平台，它可以在一个资源受限的设备上存储和更新多个应用程序，同时保持最高的认证级别和与标准的兼容性。
       *  Java TV：是一种基于JavaME的技术，它为开发在tv和机顶盒设备上运行的java应用程序提供了一个性能良好、安全且易于实现的解决方案。使用Java TV运行时，开发人员可以轻松创建应用程序，例如电子节目指南（EPG）、视频点播（VOD）客户端、游戏和教育应用程序、用于访问Internet数据的应用程序（例如天气、新闻播报器、社交网络）以及大多数蓝光光盘标题上的用户界面和奖金内容。
-
+    
     ## 1.4 什么是软件开发
-
+    
     ```java
     1.概述:
       软件开发是根据用户要求建造出软件系统或者系统中的软件部分的过程
@@ -170,17 +170,18 @@
       
     3.我们将来主要用什么程序设计语言来开发呢? java语言 sql语言  js
     ```
-
+    
     # 第二章.Java语言前言
-
+    
     ## 1.字节
-
+    
     ```java
     1.字节:计算机中存储数据的最小存储单元(计量单位),用byte或者B表示
       二进制位:用bit(比特)表示
       8个二进制位代表一个字节 
-          
-          
+
+
+​          
     2.存储单元之间的转换:
       8bit = 1B
       1024B = 1KB
@@ -190,23 +191,25 @@
           
       PB   EB  ZB ...    
     ```
-
+    
     <img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1698284758661.png" alt="1698284758661" style="zoom:80%;" />
-
+    
     ## 2.常用的dos命令
-
+    
     ```java
     1.打开dos命令窗口:
       win+r -> 输入cmd -> 回车
     ```
-
+    
     <img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1698285433042.png" alt="1698285433042" style="zoom:80%;" />
 
-    
+
+​    
 
     <img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1698285568344.png" alt="1698285568344" style="zoom:80%;" />
 
-    
+
+​    
 
     | 作用                           | 命令                                                         |
     | ------------------------------ | ------------------------------------------------------------ |
@@ -224,7 +227,8 @@
     | 删除文件                       | del 文件名.后缀名<br>不走回收站                              |
     | 批量删除文件                   | del *.后缀名                                                 |
 
-    
+
+​    
 
     > 1.如何区分正斜杠和反斜杠:
     >
@@ -241,11 +245,11 @@
     > 3.按上下箭头,切换之前输入过的命令
     >
     > 4.在dos命令窗口中,可以输入文件夹名或者文件名的一部分,按 -> tab键 -> 自动补全文件夹名或者文件名
-
+    
     # 第三章.Java所需要的环境
-
+    
     ## 1.jvm和跨平台
-
+    
     ```java
     1.jvm(java虚拟机):java运行程序的假想计算机,主要用来运行java程序的
     2.跨平台:java代码可以在不同的操作系统上运行(一次编写,到处运行)
@@ -254,11 +258,11 @@
           
     3.关系:java程序想要在不同的操作系统上运行,实现跨平台,就需要安装不同版本的jvm      
     ```
-
+    
     <img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1698304141613.png" alt="1698304141613" style="zoom:80%;" />
-
+    
     ## 2.JDK和JRE
-
+    
     ```java
     1.jdk:(Java Development Kit):java开发工具包,包含了jre
       javac 编译工具
@@ -271,53 +275,55 @@
     3.jdk和jre以及jvm的关系:
       jdk包含了jre,jre包含了jvm,所以我们只需要安装jdk即可
     ```
-
+    
     > 但是从jdk9开始jdk目录中就没有单独的jre目录了,因为jre作为一个运行时,里面不需要包含太多的东西浪费空间,降低运行效率,在jdk9的时候引用模块化的技术,让开发者能按照自己的应用创建一个最小的运行时(比如一个微服务的部署应用仅仅需要一个非常小的runtime,而不是像以前一样不管应用复杂还是简单,都需要一个近百兆的jre运行)这样提高了运行效率
-
+    
     ### 2.1.jdk安装
-
+    
     ```java
     1.下载:www.oracle.com
     ```
-
+    
     <img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1698306463672.png" alt="1698306463672" style="zoom:80%;" />
-
+    
     ```java
      1.安装:双击 -> 选择安装路径(安装路径上不要有中文,不要有空格)
      2.一定要记住:以后所有开发相关的安装路径上都不要有中文和空格    
     ```
-
+    
     <img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1698306706203.png" alt="1698306706203" style="zoom:80%;" />
-
+    
     > 测试:进入到jdk的bin路径下,打开对应dos命令窗口
     >
     > 输入javac(编译命令)和java(运行命令)
-
+    
     ### 2.2.环境变量的配置
-
+    
     ```java
     1.问题:将来我们需要创建一个java文件写代码,然后编译和运行的时候需要打开此java文件所在的目录,java文件的目录如果和javac以及java命令所在的bin目录不一致,那么javac和java命令就用不了了,毕竟javac和java命令在bin目录下,所以难道我们将来必须将所有的java文件都放到bin目录下吗?
       那么我们能不能在任意目录下都能使用javac和java命令呢?能,需要配置环境变量
         
     2.配置环境变量的目的:在任意路径下都可以随意使用javac和java命令进行对java代码的编译和运行    
     ```
-
+    
     ```java
     方式1:直接将jdk的bin路径粘贴到path中 -> 不推荐
     ```
-
+    
     <img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1698308025548.png" alt="1698308025548" style="zoom:80%;" />
 
-    
+
+​    
 
     ```java
     方式2:极力推荐
          配置JAVA_HOME
     ```
-
+    
     <img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1698308481783.png" alt="1698308481783" style="zoom:80%;" />
 
-    
+
+​    
 
     > jdk安装之后,自带环境变量配置->javapath(可以删除)->推荐使用JAVA_HOME
     >
@@ -328,11 +334,11 @@
     > 2.解决问题2:直接将bin路径粘进去
     >
     > 当然,后面学了idea之后,不会出现这种问题了
-
+    
     # 第四章.Java第一个程序的开发
-
+    
     ## 1.开发三步骤
-
+    
     ```java
     1.编写:
       a.创建一个文本文档,将后缀名改成.java,变成一个java文件
@@ -345,11 +351,11 @@
     3.运行:
       a.命令:java class文件名(不需要带后缀名了)
     ```
-
+    
     <img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1698310112286.png" alt="1698310112286" style="zoom:80%;" />
-
+    
     ## 2.编写HelloWorld
-
+    
     ```java
     public class Demo01HelloWorld{
     	public static void main(String[] args){
@@ -357,21 +363,21 @@
     	}
     }
     ```
-
+    
     ```java
     编译:
       javac java文件名.java
     ```
-
+    
     ```java
     运行:
       java class文件名(不要带后缀名了)
     ```
-
+    
     <img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1698310705311.png" alt="1698310705311" style="zoom:80%;" />
-
+    
     ## 3.注释
-
+    
     ```java
     1.概述:对代码的解释说明
     2.分类:
@@ -388,7 +394,7 @@
           注释内容
         */
     ```
-
+    
     ```java
     //单行注释 class后面的名字要和java文件名一致
     public class Demo01HelloWorld{
@@ -406,7 +412,7 @@
     	}
     }
     ```
-
+    
     ```java
     1.文档注释作用:将来我们给别人一个开发好的类,如何让别人快速对我们写的代码了解呢?
       我们的文档注释中的内容可以根据javadoc命令生成一个文档(API文档)
@@ -414,7 +420,7 @@
         
     2.命令:javadoc -d 要生成的文件夹名字 -author -version 文件名.java    
     ```
-
+    
     ```java
     /**
       此类是一个java的入门程序
@@ -431,13 +437,13 @@
     	}
     }
     ```
-
+    
     > 1.右键中没有创建文件或者文件夹的选项 -> 所在的磁盘有权限问题
     >
     > 2.右键盘符 -> 属性 -> 安全 -> 编辑 -> 修改权限(完全控制)
-
+    
     ## 4.第一个Java程序中每一句话的解释以及注意事项
-
+    
     ```java
     /*
       1.public class Demo03HelloWorld:定义一个类
@@ -456,7 +462,7 @@
     	}
     }
     ```
-
+    
     ```java
     注意事项:
       1.类名要和java文件名保持一致
@@ -467,26 +473,27 @@
       6.括号要一对一对的写
       7.代码写完语句用;代表结束了,一句话来个分号,证明这是一个单独的语句    
     ```
-
+    
     <img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1698316431980.png" alt="1698316431980" style="zoom:80%;" />
 
-    
+
+​    
 
     <img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1698316471785.png" alt="1698316471785" style="zoom:80%;" />
-
+    
     ## 6.关键字
-
+    
     ```java
     1.关键字:java提前定义好的,具有特殊含义的小写单词
     2.怎么记:不用提前都背下来,关键字在高级记事本中颜色特殊,学到哪里记到哪里    
     ```
-
+    
     <img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1698317329001.png" alt="1698317329001" style="zoom:80%;" />
-
+    
     ## 7.编写HelloWorld时要注意的问题
-
+    
     ### 7.1字符编码问题
-
+    
     ```java
     1.编码:保存数据的过程就是编码的过程
     2.解码:读数据的过程就是解码的过程
@@ -502,21 +509,22 @@
             
       c.dos命令窗口默认编码:GBK       
     ```
-
+    
     <img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1698318579697.png" alt="1698318579697" style="zoom:80%;" />![1698318655020](D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day01_入门\day01_HelloWorld\img\1698318655020.png)
 
-    
 
-    
+​    
 
-    
+​    
 
-    
+​    
 
-    
+​    
+
+​    
 
     ### 7.2源文件名(java文件名)与类名一致问题？
-
+    
     ```java
     1.类名必须要和java文件名一致嘛?
       不是必须的
@@ -531,7 +539,7 @@
         
     4.main方法必须写在带public的类中    
     ```
-
+    
     > 小结:
     >
     > 1.一个java文件只写一个class,而且带public
@@ -539,16 +547,16 @@
     > 2.类名和java文件名保持一致
     >
     > 3.main方法写在带public的类中
-
+    
     ## 9.println和print区别
-
+    
     ```java
     相同点:都是输出语句
     不同点:
       a.println:输出之后自带换行效果
       b.print:输出之后不带换行效果    
     ```
-
+    
     ```java
     public class Demo05HelloWorld{
     	public static void main(String[] args){
@@ -565,7 +573,7 @@
     }
     
     ```
-
+    
     > 小技巧:
     >
     > 1.复制当前行:ctrl+d
@@ -576,4 +584,5 @@
     >
     > ​     b.按住alt不放,鼠标往下拉,此时发现光标变长了
 
-    
+
+​    

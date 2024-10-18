@@ -50,7 +50,7 @@
     变量名.next() 输入字符串  String型的  
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day04_流程控制\img\1698825246723.png" alt="1698825246723" style="zoom:80%;" />
+<img src="img\1698825246723.png" alt="1698825246723" style="zoom:80%;" />
 
 ```java
 public class Demo01Scanner {
@@ -746,7 +746,7 @@ public class Demo10ElseIf {
   d.再比较,直到比较为false,循环结束了
 ```
 
- <img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day04_流程控制\img\1698922237741.png" alt="1698922237741" style="zoom:80%;" />
+ <img src="img\1698922237741.png" alt="1698922237741" style="zoom:80%;" />
 
 
 
@@ -761,7 +761,7 @@ public class Demo01For {
 
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day04_流程控制\img\1698922408704.png" alt="1698922408704" style="zoom:80%;" />
+<img src="img\1698922408704.png" alt="1698922408704" style="zoom:80%;" />
 
 
 
@@ -797,7 +797,7 @@ public class Demo02For {
 
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day04_流程控制\img\1698925007924.png" alt="1698925007924" style="zoom:80%;" />
+<img src="img\1698925007924.png" alt="1698925007924" style="zoom:80%;" />
 
 ### 1.2练习
 

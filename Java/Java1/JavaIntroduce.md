@@ -131,7 +131,7 @@ public class Demo02Constant{
 }
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day02_变量_类型转换_运算符\img\1698392299314.png" alt="1698392299314" style="zoom:80%;" />
+<img src="img\1698392299314.png" alt="1698392299314" style="zoom:80%;" />
 
 # 第二章.变量
 
@@ -559,7 +559,7 @@ public class Demo11DataType{
 }
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day02_变量_类型转换_运算符\img\1698487668942.png" alt="1698487668942" style="zoom:80%;" />
+<img src="img\1698487668942.png" alt="1698487668942" style="zoom:80%;" />
 
 # 第五章.进制的转换(了解)
 
@@ -589,7 +589,7 @@ public class Demo11DataType{
 辗转相除法 -> 循环除以2,取余数
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day02_变量_类型转换_运算符\img\1698489992624.png" alt="1698489992624" style="zoom:80%;" />
+<img src="img\1698489992624.png" alt="1698489992624" style="zoom:80%;" />
 
 ## 3.2 二进制转成十进制
 
@@ -597,7 +597,7 @@ public class Demo11DataType{
 8421规则
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day02_变量_类型转换_运算符\img\1698490196480.png" alt="1698490196480" style="zoom:80%;" />
+<img src="img\1698490196480.png" alt="1698490196480" style="zoom:80%;" />
 
 ## 3.3 二进制转成八进制
 
@@ -605,7 +605,7 @@ public class Demo11DataType{
 将二进制数分开  (3位为一组)
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day02_变量_类型转换_运算符\img\1698490532286.png" alt="1698490532286" style="zoom:80%;" />
+<img src="img\1698490532286.png" alt="1698490532286" style="zoom:80%;" />
 
 ## 3.4 二进制转成十六进制
 
@@ -613,11 +613,11 @@ public class Demo11DataType{
  将二进制数分组-> 4位为一组
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day02_变量_类型转换_运算符\img\1698490908576.png" alt="1698490908576" style="zoom:80%;" />
+<img src="img\1698490908576.png" alt="1698490908576" style="zoom:80%;" />
 
 # 第六章.位运算符(了解)
 
-![1698490638699](D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day02_变量_类型转换_运算符\img\1698490638699.png)
+![1698490638699](img\1698490638699.png)
 
 ```java
 1.符号的介绍:
@@ -664,14 +664,14 @@ public class Demo11DataType{
 快速算法:  2*(2的2次方)
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day02_变量_类型转换_运算符\img\1698492698243.png" alt="1698492698243" style="zoom:80%;" />
+<img src="img\1698492698243.png" alt="1698492698243" style="zoom:80%;" />
 
 ```java
 -2<<2  等于-8
 快速算法: -2*(2的2次方)
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day02_变量_类型转换_运算符\img\1698493024906.png" alt="1698493024906" style="zoom:80%;" />
+<img src="img\1698493024906.png" alt="1698493024906" style="zoom:80%;" />
 
 #### （2）右移：>>
 
@@ -683,7 +683,7 @@ public class Demo11DataType{
 快速算法: 9除以(2的2次方)
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day02_变量_类型转换_运算符\img\1698493649466.png" alt="1698493649466" style="zoom:80%;" />
+<img src="img\1698493649466.png" alt="1698493649466" style="zoom:80%;" />
 
 ```java
 -9>>2   等于-3
@@ -691,7 +691,7 @@ public class Demo11DataType{
 快速算法: -9除以(2的2次方)
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day02_变量_类型转换_运算符\img\1698493979532.png" alt="1698493979532" style="zoom:80%;" />
+<img src="img\1698493979532.png" alt="1698493979532" style="zoom:80%;" />
 
 #### （3）无符号右移：>>>
 
@@ -732,7 +732,7 @@ public class Demo11DataType{
 5&3 结果1
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day02_变量_类型转换_运算符\img\1698494481587.png" alt="1698494481587" style="zoom:80%;" />
+<img src="img\1698494481587.png" alt="1698494481587" style="zoom:80%;" />
 
 #### （5）按位或：|
 
@@ -750,7 +750,7 @@ public class Demo11DataType{
 5|3    结果为7
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day02_变量_类型转换_运算符\img\1698494610146.png" alt="1698494610146" style="zoom:80%;" />
+<img src="img\1698494610146.png" alt="1698494610146" style="zoom:80%;" />
 
 #### （6）按位异或：^
 
@@ -768,7 +768,7 @@ public class Demo11DataType{
 5^3   结果为6
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day02_变量_类型转换_运算符\img\1698494755473.png" alt="1698494755473" style="zoom:80%;" />
+<img src="img\1698494755473.png" alt="1698494755473" style="zoom:80%;" />
 
 #### （7）按位取反
 
@@ -780,11 +780,11 @@ public class Demo11DataType{
 ~10   结果为-11
 ```
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day02_变量_类型转换_运算符\img\1698494969654.png" alt="1698494969654" style="zoom:80%;" />
+<img src="img\1698494969654.png" alt="1698494969654" style="zoom:80%;" />
 
 # 第七章.运算符的优先级(了解)
 
-<img src="D:\StudyApps\profiles\Java基础\尚硅谷2024新版Java基础（上）\day02_变量_类型转换_运算符\img\1698495032471.png" alt="1698495032471" style="zoom:80%;" />
+<img src="img\1698495032471.png" alt="1698495032471" style="zoom:80%;" />
 
 ```java
 提示说明：
