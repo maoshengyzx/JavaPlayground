@@ -43,58 +43,57 @@
     
 4.作用:加速我们的开发    
 ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698654549891.png)
 
-<img src="img/1698654549891.png" alt="1698654549891" style="zoom:80%;" />
 
 ## 2.idea的目录结构
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698655258798.png)
 
-<img src="img/1698655258798.png" alt="1698655258798" style="zoom:80%;" />
 
 > 先创建project,在project下创建module,在module下创建package -> 必须记住
 
 ## 3.Project的操作
 
 ### 3.1.project的创建
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698656313192.png)
 
-<img src="img/1698656313192.png" alt="1698656313192" style="zoom:80%;" />
 
 
 
 ### 3.2再次创建一个新的Project
-
-<img src="img/1698656369654.png" alt="1698656369654" style="zoom:80%;" />
-
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698656369654.png)
 
 
-<img src="img/1698656431983.png" alt="1698656431983" style="zoom:80%;" />
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698656431983.png)
 
 
 
-<img src="img/1698656486848.png" alt="1698656486848" style="zoom:80%;" />
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698656486848.png)
+
 
 ### 3.3.关闭Project
 
 ```java
 file-> close project
 ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698656529824.png)
 
-<img src="img/1698656529824.png" alt="1698656529824" style="zoom:80%;" />
 
 
 
 ### 3.4.打开project
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698656643041.png)
 
-<img src="img/1698656643041.png" alt="1698656643041" style="zoom:80%;" />
 
 ## 4.module的操作
 
 ### 4.1.创建module
-
-<img src="img/1698657956849.png" alt="1698657956849" style="zoom:80%;" />
-
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698657956849.png)
 
 
-<img src="img/1698658056821.png" alt="1698658056821" style="zoom:80%;" />
+
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698658056821.png)
+
 
 ### 4.2.关闭module
 
@@ -102,38 +101,38 @@ file-> close project
 a.对着要关闭的module右键 -> remove module -> 此时是关闭,不是真正的删除module
 b.再对着关闭的module右键-> delete -> 从本地上真正删除
 ```
-
-<img src="img/1698658178382.png" alt="1698658178382" style="zoom:80%;" />
-
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698658178382.png)
 
 
-<img src="img/1698658250143.png" alt="1698658250143" style="zoom:80%;" />
 
-![1698658413831](img/1698658413831.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698658250143.png)
+
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698658413831.png)
+
 
 
 
 ### 4.3.导入已有的module
-
-<img src="img/1698658424190.png" alt="1698658424190" style="zoom:80%;" />
-
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698658424190.png)
 
 
-<img src="img/1698658530931.png" alt="1698658530931" style="zoom:80%;" />
+
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698658530931.png)
+
 
 ## 5.package的操作
 
 ### 5.1创建
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698659767078.png)
 
-<img src="img/1698659767078.png" alt="1698659767078" style="zoom:80%;" />
 
 ### 5.2 package的删除
 
 ```java
 右键-> delete
 ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698659832251.png)
 
-<img src="img/1698659832251.png" alt="1698659832251" style="zoom:80%;" />
 
 ### 5.3 package取名字规范
 
@@ -142,14 +141,14 @@ b.再对着关闭的module右键-> delete -> 从本地上真正删除
   比如:尚硅谷  域名为:www.atguigu.com
   我们写代码创建包: com.atguigu
 ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698660235926.png)
 
-<img src="img/1698660235926.png" alt="1698660235926" style="zoom:80%;" />
 
 ## 6.创建类以及基本语句生成快捷键
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698660395965.png)
 
-<img src="img/1698660395965.png" alt="1698660395965" style="zoom:80%;" />
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698660554481.png)
 
-<img src="img/1698660554481.png" alt="1698660554481" style="zoom:80%;" />
 
 
 
@@ -170,20 +169,20 @@ b.再对着关闭的module右键-> delete -> 从本地上真正删除
 ```java
 file-settings
 ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698660971384.png)
 
-<img src="img/1698660971384.png" alt="1698660971384" style="zoom:80%;" />
 
 ### 7.2设置提示的快捷键
 
 ```java
 file-settings
 ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698661137410.png)
 
-<img src="img/1698661137410.png" alt="1698661137410" style="zoom:80%;" />![1698661320028](img/1698661320028.png)
 
 ### 7.3 设置注释字体
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698661320028.png)
 
-![1698661320028](img/1698661320028.png)
 
 ## 8.快捷键
 
@@ -199,11 +198,11 @@ file-settings
 
 > 先写等号右边的,可以自动生成等号左边的变量
 >
-> <img src="img/1698662119415.png" alt="1698662119415" style="zoom:80%;" />
+> ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698662119415.png)
 
 或者
+> ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698662152111.png)
 
-> <img src=" img/1698662152111.png" alt="1698662152111" style="zoom:80%;" />
 
 ## 9.出现的问题
 
@@ -219,10 +218,10 @@ file-settings
     
 4.刚使用,jdk没有配置
 ```
+> ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698663293553.png)
 
-<img src="img/1698663293553.png" alt="1698663293553" style="zoom:80%;" />
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698663426985.png)
 
-<img src="img/1698663426985.png" alt="1698663426985" style="zoom:80%;" />
 
 # 第二章.运算符
 
@@ -356,8 +355,8 @@ public class Demo03Arithmetic {
     }
 }
 ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img2/1698743122044.png)
 
-<img src="img/1698743122044.png" alt="1698743122044" style="zoom:80%;" />
 
 ## 3.赋值运算符
 
