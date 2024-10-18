@@ -17,7 +17,7 @@
 
     JavaSE知识图解
 
-   [https://github.com/maoshengyzx/JavaPlayground/raw/main/JavaImage/image0/1615793545482.png](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/JavaSE课程内容介绍.png)
+   [!image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/JavaSE课程内容介绍.png)
 
 
 
