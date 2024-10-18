@@ -201,7 +201,7 @@ public class Demo01Array {
   取数据,要指定索引
   查数据,要指定索引
 ```
-
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img4/1693100078309.png)
 <img src="img\1693100078309.png" alt="1693100078309" style="zoom:80%;" />
 
 ## 3.存储元素
