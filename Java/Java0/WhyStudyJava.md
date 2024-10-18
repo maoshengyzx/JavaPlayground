@@ -18,6 +18,8 @@
     JavaSE知识图解
 
     https://github.com/maoshengyzx/JavaPlayground/raw/main/JavaImage/image0/1615793545482.png
+    https://raw.githubusercontent.com/wiki/maoshengyzx/JavaPlayground/JavaImage/image0/1615793545482.png
+
 
     JavaSE知识模块介绍
 
