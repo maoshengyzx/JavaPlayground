@@ -130,7 +130,7 @@ public class Demo02Constant{
 	}
 }
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img1/1698392299314.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java1/img/1698392299314.png)
 
 
 # 第二章.变量
@@ -558,7 +558,7 @@ public class Demo11DataType{
 	}
 }
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img1/1698487668942.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java1/img/1698487668942.png)
 
 
 # 第五章.进制的转换(了解)
@@ -588,7 +588,7 @@ public class Demo11DataType{
 ```java
 辗转相除法 -> 循环除以2,取余数
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img1/1698489992624.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java1/img/1698489992624.png)
 
 
 ## 3.2 二进制转成十进制
@@ -596,7 +596,7 @@ public class Demo11DataType{
 ```java
 8421规则
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img1/1698490196480.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java1/img/1698490196480.png)
 
 
 ## 3.3 二进制转成八进制
@@ -604,7 +604,7 @@ public class Demo11DataType{
 ```java
 将二进制数分开  (3位为一组)
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img1/1698490532286.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java1/img/1698490532286.png)
 
 
 ## 3.4 二进制转成十六进制
@@ -612,12 +612,12 @@ public class Demo11DataType{
 ```java
  将二进制数分组-> 4位为一组
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img1/1698490908576.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java1/img/1698490908576.png)
 
 
 # 第六章.位运算符(了解)
 
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img1/1698490638699.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java1/img/1698490638699.png)
 
 
 ```java
@@ -664,14 +664,14 @@ public class Demo11DataType{
 2<<2   结果等于8
 快速算法:  2*(2的2次方)
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img1/1698492698243.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java1/img/1698492698243.png)
 
 
 ```java
 -2<<2  等于-8
 快速算法: -2*(2的2次方)
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img1/1698493024906.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java1/img/1698493024906.png)
 
 
 #### （2）右移：>>
@@ -683,7 +683,7 @@ public class Demo11DataType{
     
 快速算法: 9除以(2的2次方)
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img1/1698493649466.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java1/img/1698493649466.png)
 
 
 ```java
@@ -691,7 +691,7 @@ public class Demo11DataType{
     
 快速算法: -9除以(2的2次方)
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img1/1698493979532.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java1/img/1698493979532.png)
 
 
 #### （3）无符号右移：>>>
@@ -732,7 +732,7 @@ public class Demo11DataType{
 ```java
 5&3 结果1
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img1/1698494481587.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java1/img/1698494481587.png)
 
 
 #### （5）按位或：|
@@ -750,7 +750,7 @@ public class Demo11DataType{
 ```
 5|3    结果为7
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img1/1698494610146.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java1/img/1698494610146.png)
 
 
 #### （6）按位异或：^
@@ -768,7 +768,7 @@ public class Demo11DataType{
 ```java
 5^3   结果为6
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img1/1698494755473.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java1/img/1698494755473.png)
 
 
 #### （7）按位取反
@@ -780,11 +780,11 @@ public class Demo11DataType{
 ```java
 ~10   结果为-11
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img1/1698494969654.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java1/img/1698494969654.png)
 
 
 # 第七章.运算符的优先级(了解)
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img1/1698495032471.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java1/img/1698495032471.png)
 
 
 ```java
