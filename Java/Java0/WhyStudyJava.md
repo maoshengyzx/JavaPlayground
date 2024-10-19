@@ -17,7 +17,8 @@
 
     JavaSE知识图解
 
-   ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/JavaSE课程内容介绍.png)
+
+   ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/JavaSE课程内容介绍.png)
 
 
 
@@ -63,12 +64,12 @@
       ```
 
     ### 计算机语言排行榜
-
-    ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/image-20201109084739737.png)
+  ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/20201109084739737.png)
+ 
 
     ### 计算机语言走势
+  ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/20200820180851296.png)
 
-   ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/image-20200820180851296.png)
 
     ## 1.3 Java语言概述（了解）
 
@@ -106,8 +107,8 @@
     Java诞生于SUN（Stanford University Network），09年SUN被Oracle（甲骨文）收购。
     
     Java之父是詹姆斯.高斯林(James Gosling)。
-    
-    ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1615793633189.png)
+      ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1615793633189.png)
+
     
     **詹姆斯·高斯林**等人于1990年代初开发Java语言的雏形，最初被命名为**Oak**，目标设置在**家用电器等小型系统的程序语言**，应用在**电视机、电话、闹钟、烤面包机**等家用电器的**控制和通信**。由于这些智能化家电的市场需求没有预期的高，Sun公司放弃了该项计划。随着1990年代互联网的发展，Sun公司看见Oak在互联网上应用的前景，于是改造了Oak，于1995年5月以Java的名称正式发布。Java伴随着互联网的迅猛发展而发展，逐渐成为重要的网络编程语言。
     
@@ -145,9 +146,8 @@
     
     正是由于 Google 在 Android 平台上使用 Java 时并未和 Sun 公司达成授权协议，造成了巨大的隐患，尤其是在 Oracle 收购 Sun 公司之后。
     ```
-    
-    ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1615793545482.png)
-    
+          ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1615793545482.png)
+ 
     ### Java技术体系平台
     
     * JavaSE（Java Platform, Standard Edition标准版）：允许您在桌面和服务器上开发和部署Java应用程序。Java提供了丰富的用户界面、性能、多功能性、可移植性和当今应用程序所需的安全性。
@@ -193,8 +193,8 @@
           
       PB   EB  ZB ...    
     ```
-    
-   ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1698284758661.png)
+    ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1698284758661.png)
+
     
     ## 2.常用的dos命令
     
@@ -202,12 +202,12 @@
     1.打开dos命令窗口:
       win+r -> 输入cmd -> 回车
     ```
-    
-   ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1698285433042.png)
+    ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1698285433042.png)
 
 
-​    
-  ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1698285568344.png)
+
+​    ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1698285568344.png)
+
 
 ​    
 
@@ -258,8 +258,8 @@
           
     3.关系:java程序想要在不同的操作系统上运行,实现跨平台,就需要安装不同版本的jvm      
     ```
-    
- ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1698304141613.png)
+    ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1698304141613.png)
+
     
     ## 2.JDK和JRE
     
@@ -283,15 +283,15 @@
     ```java
     1.下载:www.oracle.com
     ```
-
-     ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1698306463672.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1698306463672.png)
+    
     
     ```java
      1.安装:双击 -> 选择安装路径(安装路径上不要有中文,不要有空格)
      2.一定要记住:以后所有开发相关的安装路径上都不要有中文和空格    
     ```
-
-         ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1698306706203.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1698306706203.png)
+     
 
     
     > 测试:进入到jdk的bin路径下,打开对应dos命令窗口
@@ -310,8 +310,8 @@
     ```java
     方式1:直接将jdk的bin路径粘贴到path中 -> 不推荐
     ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1698308025548.png)
 
-             ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1698308025548.png)
 
 
 
@@ -321,8 +321,8 @@
     方式2:极力推荐
          配置JAVA_HOME
     ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1698308481783.png)
 
-                 ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1698308481783.png)
 
 
 
@@ -354,8 +354,8 @@
     3.运行:
       a.命令:java class文件名(不需要带后缀名了)
     ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1698310112286.png)
 
-                     ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1698310112286.png)
 
     
     ## 2.编写HelloWorld
@@ -377,8 +377,8 @@
     运行:
       java class文件名(不要带后缀名了)
     ```
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1698310705311.png)
 
-                         ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1698310705311.png)
  
     
     ## 3.注释
@@ -478,12 +478,13 @@
       6.括号要一对一对的写
       7.代码写完语句用;代表结束了,一句话来个分号,证明这是一个单独的语句    
     ```
-           ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1698316431980.png)
+    ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1698316431980.png)
 
 
 
-​    
-        ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1698316471785.png)
+
+​        ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1698316471785.png)
+
 
    
     
@@ -493,7 +494,7 @@
     1.关键字:java提前定义好的,具有特殊含义的小写单词
     2.怎么记:不用提前都背下来,关键字在高级记事本中颜色特殊,学到哪里记到哪里    
     ```
-           ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1698317329001.png)
+    ​        ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1698317329001.png)
 
     
     ## 7.编写HelloWorld时要注意的问题
@@ -515,8 +516,10 @@
             
       c.dos命令窗口默认编码:GBK       
     ```
-     ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1698318579697.png)
-      ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img0/1698318655020.png)
+     ​        ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1698318579697.png)
+
+          ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/1698318655020.png)
+
 
 
 
