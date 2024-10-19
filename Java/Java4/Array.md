@@ -201,7 +201,8 @@ public class Demo01Array {
   取数据,要指定索引
   查数据,要指定索引
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java4/img/1693100078309.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java4/img/1693100078309.png)
+
 
 
 ## 3.存储元素
@@ -327,11 +328,11 @@ public class Demo05Array {
 }
 
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java4/img/1693104779382.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java4/img/1693104779382.png)
 
 
 
-![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java4/img/1693105444875.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java4/img/1693105444875.png)
 
 
 
@@ -513,7 +514,7 @@ public class Demo10Array {
 }
 
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java4/img/1693117140845.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java4/img/1693117140845.png)
 
 
 > 以上两个问题我们只需要知道原因即可
@@ -531,7 +532,7 @@ public class Demo10Array {
   4.直接输出max    
    
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java4/img/1693117878368.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java4/img/1693117878368.png)
 
 
 ```java
@@ -781,7 +782,7 @@ public class Demo04Array {
     }
 }
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java4/img/1699000658991.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java4/img/1699000658991.png)
 
 
 ## 9.练习_数组合并
@@ -833,7 +834,7 @@ public class Demo05Array {
 }
 
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java4/img/1699000686275.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java4/img/1699000686275.png)
 
 
 # 第五章.内存图
@@ -863,18 +864,18 @@ public class Demo05Array {
         
   寄存器(了解) -> 跟CPU有关
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java4/img/1693125937484.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java4/img/1693125937484.png)
 
 
 ## 1.一个数组内存图
-![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java4/img/1699000833517.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java4/img/1699000833517.png)
 
 ## 2.两个数组内存图
 
 ```java
 我们创建了两个数组,在堆内存中开辟了两个不同的空间,此时修改一个数组中的元素不会影响到另外一个数组中的数据
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java4/img/1699000841735.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java4/img/1699000841735.png)
 
 
 ## 3.两个数组指向同一片内存空间
@@ -883,7 +884,7 @@ public class Demo05Array {
 arr2不是new出来的,是arr1直接赋值的,arr1在内存中保存的是地址值,给了arr2,那么arr2的地址值和arr1就是一样的
 所以此时arr1和arr2指向了堆内存中的同一片空间(同一个地址值,同一个数组),此时改变一个数组中的元素会影响到另外一个数组
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java4/img/1699000850332.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java4/img/1699000850332.png)
 
 
 
@@ -915,7 +916,7 @@ arr2不是new出来的,是arr1直接赋值的,arr1在内存中保存的是地址
     数据类型 数组名[][] = {{元素1,元素2...},{元素1,元素2...},{元素1,元素2...}}
     数据类型[] 数组名[] = {{元素1,元素2...},{元素1,元素2...},{元素1,元素2...}}
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java4/img/1699000860190.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java4/img/1699000860190.png)
 
 
 ```java
@@ -977,7 +978,7 @@ public class Demo03Array {
     }
 }
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java4/img/1699000869540.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java4/img/1699000869540.png)
 
 ## 4.二维数组中存储元素
 
@@ -1054,6 +1055,6 @@ public class Demo06Array {
     }
 }
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java4/img/1693280082069.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java4/img/1693280082069.png)
 
 
