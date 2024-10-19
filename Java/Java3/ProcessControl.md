@@ -50,7 +50,7 @@
     变量名.next() 输入字符串  String型的  
 ```
 
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img3/1698825246723.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java3/img/1698825246723.png)
 
 
 ```java
@@ -276,7 +276,7 @@ public class Demo02Switch {
 }
 
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img3/1698890564643.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java3/img/1698890564643.png)
 
 
 ```java
@@ -746,7 +746,7 @@ public class Demo10ElseIf {
   c.再比较,如果还是true,继续走循环语句,走步进表达式
   d.再比较,直到比较为false,循环结束了
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img3/1698922237741.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java3/img/1698922237741.png)
 
 
 
@@ -761,7 +761,7 @@ public class Demo01For {
 }
 
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img3/1698922408704.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java3/img/1698922408704.png)
 
 
 
@@ -797,7 +797,7 @@ public class Demo02For {
 }
 
 ```
-![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/JavaImage/img3/1698925007924.png)
+![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java3/img/1698925007924.png)
 
 
 ### 1.2练习
