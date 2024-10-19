@@ -70,7 +70,7 @@
  
 
     ### 计算机语言走势
-  ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/20200820180851296.png)
+  ![image](https://github.com/maoshengyzx/JavaPlayground/blob/main/Java/Java0/img/image-20200820180851296.png)
 
 
     ## 1.3 Java语言概述（了解）
