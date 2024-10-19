@@ -513,8 +513,8 @@ public class Demo10Array {
 }
 
 ```
+![image](https://github.com/maoshengyzx/JavaPlayground/tree/main/Java/Java4/img/1693117140845.png)
 
-<img src="img\1693117140845.png" alt="1693117140845" style="zoom:80%;" />
 
 > 以上两个问题我们只需要知道原因即可
 
