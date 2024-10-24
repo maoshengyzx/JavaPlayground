@@ -13,7 +13,7 @@
 
 |                        数据库存储数据                        |
 | :----------------------------------------------------------: |
-| ![image-20240221133238015](JDBC.assets\image-20240221133238015.png) |
+| ![image-20240221133238015](https://github.com/maoshengyzx/JavaPlayground/blob/main/JDBC/%E7%AC%94%E8%AE%B0/JDBC.assets/image-20240221133238015.png) |
 
 
 
@@ -23,7 +23,7 @@
 
 |                      Java程序读取数据库                      |
 | :----------------------------------------------------------: |
-| ![image-20240221133525927](JDBC.assets\image-20240221133525927.png) |
+| ![image-20240221133525927](https://github.com/maoshengyzx/JavaPlayground/blob/main/JDBC/%E7%AC%94%E8%AE%B0/JDBC.assets/image-20240221133525927.png) |
 
 
 
@@ -38,7 +38,7 @@
 
 |                       JDBC简单执行过程                       |
 | :----------------------------------------------------------: |
-| ![image-20240221134431944](JDBC.assets\image-20240221134431944.png) |
+| ![image-20240221134431944](https://github.com/maoshengyzx/JavaPlayground/blob/main/JDBC/%E7%AC%94%E8%AE%B0/JDBC.assets/image-20240221134431944.png) |
 
 
 
@@ -430,7 +430,7 @@ public class JdbcQuick {
 > 1. SQL语句有错误，检查SQL语句！建议SQL语句在SQL工具中测试后再复制到Java程序中！
 > 2. 连接数据库的URL中，数据库名称编写错误，也会报该异常！
 >
-> ![image-20240223143826507](JDBC.assets/image-20240223143826507.png)
+> ![image-20240223143826507](https://github.com/maoshengyzx/JavaPlayground/blob/main/JDBC/%E7%AC%94%E8%AE%B0/JDBC.assets/image-20240223143826507.png)
 
 
 
@@ -440,7 +440,7 @@ public class JdbcQuick {
 >
 > 在使用预编译SQL语句时，如果有?占位符，要为每一个占位符赋值，否则报该错误！
 >
-> ![image-20240223143947558](JDBC.assets/image-20240223143947558.png)
+> ![image-20240223143947558](https://github.com/maoshengyzx/JavaPlayground/blob/main/JDBC/%E7%AC%94%E8%AE%B0/JDBC.assets/image-20240223143947558.png)
 
 
 
@@ -448,7 +448,7 @@ public class JdbcQuick {
 
 > 连接数据库时，如果用户名或密码输入错误，也会报SQLException，容易混淆！所以一定要看清楚异常后面的原因描述
 >
-> ![image-20240223144345939](JDBC.assets/image-20240223144345939.png)
+> ![image-20240223144345939](https://github.com/maoshengyzx/JavaPlayground/blob/main/JDBC/%E7%AC%94%E8%AE%B0/JDBC.assets/image-20240223144345939.png)
 
 
 
@@ -458,7 +458,7 @@ public class JdbcQuick {
 >
 > com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
 >
-> ![image-20240227234754309](F:\JDBC\JDBC\JDBC\笔记\JDBC.assets\image-20240227234754309.png)
+> ![image-20240227234754309](F:\JDBC\JDBC\JDBC\笔记\https://github.com/maoshengyzx/JavaPlayground/blob/main/JDBC/%E7%AC%94%E8%AE%B0/JDBC.assets/image-20240227234754309.png)
 
 
 
@@ -664,15 +664,15 @@ JDBC 的数据库连接池使用 javax.sql.DataSource接口进行规范，所有
 
 |                     主流连接池的功能对比                     |
 | :----------------------------------------------------------: |
-| ![image-20240228090209040](JDBC.assets\image-20240228090209040.png) |
+| ![image-20240228090209040](https://github.com/maoshengyzx/JavaPlayground/blob/main/JDBC/%E7%AC%94%E8%AE%B0/JDBC.assets/image-20240228090209040.png) |
 
 |                   mock性能数据（单位：ms）                   |
 | :----------------------------------------------------------: |
-| ![image-20240228205157212](JDBC.assets\image-20240228205157212.png) |
+| ![image-20240228205157212](https://github.com/maoshengyzx/JavaPlayground/blob/main/JDBC/%E7%AC%94%E8%AE%B0/JDBC.assets/image-20240228205157212.png) |
 
 |                   mysql性能数据 (单位：ms)                   |
 | :----------------------------------------------------------: |
-| ![image-20240228205242420](JDBC.assets\image-20240228205242420.png) |
+| ![image-20240228205242420](https://github.com/maoshengyzx/JavaPlayground/blob/main/JDBC/%E7%AC%94%E8%AE%B0/JDBC.assets/image-20240228205242420.png) |
 
 
 
@@ -985,7 +985,7 @@ JDBC 的数据库连接池使用 javax.sql.DataSource接口进行规范，所有
 
 
 
-![image-20240223104919548](JDBC.assets/image-20240223104919548.png)
+![image-20240223104919548](https://github.com/maoshengyzx/JavaPlayground/blob/main/JDBC/%E7%AC%94%E8%AE%B0/JDBC.assets/image-20240223104919548.png)
 
 #### 9.4 JDBC工具类封装V2.0
 
